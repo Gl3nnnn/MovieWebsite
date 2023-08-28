@@ -2,7 +2,7 @@
 
 Welcome to MetaCineSynth, a movie website that uses the 🎬 [The Movie Database (TMDb) API](https://www.themoviedb.org/) to provide information about movies, including their posters, titles, release dates, ratings, genres, and overviews.
 
-![Screenshot](screenshots/111.png)
+![Screenshot](111.png)
 
 ## Features
 
